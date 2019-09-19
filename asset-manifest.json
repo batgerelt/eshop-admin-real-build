@@ -1,8 +1,11 @@
 {
-  "main.css": "static/css/main.2364c6e0.css",
-  "main.css.map": "static/css/main.2364c6e0.css.map",
-  "main.js": "static/js/main.c4202ca9.js",
-  "main.js.map": "static/js/main.c4202ca9.js.map",
+  "main.css": "static/css/main.ad9db81e.css",
+  "main.css.map": "static/css/main.ad9db81e.css.map",
+  "main.js": "static/js/main.4465b793.js",
+  "main.js.map": "static/js/main.4465b793.js.map",
+  "static\\media\\emart-logo-sm.png": "static/media/emart-logo-sm.d307b8ca.png",
   "static\\media\\emart-logo.png": "static/media/emart-logo.ec6a1350.png",
-  "static\\media\\loading.svg": "static/media/loading.958aa25c.svg"
+  "static\\media\\gb.svg": "static/media/gb.4f1b7af5.svg",
+  "static\\media\\loading.svg": "static/media/loading.cc537884.svg",
+  "static\\media\\mn.svg": "static/media/mn.b6529a3b.svg"
 }
